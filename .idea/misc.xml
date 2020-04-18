@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/springsecurity-oauth2-server/pom.xml" />
         <option value="$PROJECT_DIR$/springsecurity-oauth2-source/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_security_oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity-oauth2-depandenices/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/springboot_security_oauth" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot_security_oauth/heima_oauth_server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot_security_oauth/heima_oauth_source" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-experience" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springsecurity-oauth2-dependencies" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springsecurity-oauth2-dependencies" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springsecurity-oauth2-dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-oauth2-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springsecurity-oauth2-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springsecurity-oauth2-source" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springsecurity-oauth2-source" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-oauth2-source" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsecurity-source" charset="UTF-8" />

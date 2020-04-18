@@ -3,12 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringSecurity.iml" filepath="$PROJECT_DIR$/.idea/SpringSecurity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth/heima_oauth_server/heima_oauth_server.iml" filepath="$PROJECT_DIR$/springboot_security_oauth/heima_oauth_server/heima_oauth_server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth/heima_oauth_source/heima_oauth_source.iml" filepath="$PROJECT_DIR$/springboot_security_oauth/heima_oauth_source/heima_oauth_source.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth/springboot_security_oauth.iml" filepath="$PROJECT_DIR$/springboot_security_oauth/springboot_security_oauth.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-common/springsecurity-common.iml" filepath="$PROJECT_DIR$/springsecurity-common/springsecurity-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-dependencies/springsecurity-dependencies.iml" filepath="$PROJECT_DIR$/springsecurity-dependencies/springsecurity-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-experience/springsecurity-experience.iml" filepath="$PROJECT_DIR$/springsecurity-experience/springsecurity-experience.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity-oauth2-server/springsecurity-oauth2-server.iml" filepath="$PROJECT_DIR$/springsecurity-oauth2-server/springsecurity-oauth2-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity-oauth2-source/springsecurity-oauth2-source.iml" filepath="$PROJECT_DIR$/springsecurity-oauth2-source/springsecurity-oauth2-source.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-server/springsecurity-server.iml" filepath="$PROJECT_DIR$/springsecurity-server/springsecurity-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-source/springsecurity-source.iml" filepath="$PROJECT_DIR$/springsecurity-source/springsecurity-source.iml" />
     </modules>
