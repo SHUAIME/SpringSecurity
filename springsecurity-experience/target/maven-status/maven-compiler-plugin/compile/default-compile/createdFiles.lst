@@ -1,5 +1,6 @@
 com\yan\service\impl\UserServiceImpl.class
 com\yan\mapper\UserMapper.class
+com\yan\advice\HandlerControllerException.class
 com\yan\entity\SysUser.class
 com\yan\config\SecurityConfig.class
 com\yan\mapper\RoleMapper.class

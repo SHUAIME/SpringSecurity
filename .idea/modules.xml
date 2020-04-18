@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringSecurity.iml" filepath="$PROJECT_DIR$/.idea/SpringSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity-common/springsecurity-common.iml" filepath="$PROJECT_DIR$/springsecurity-common/springsecurity-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity-dependencies/springsecurity-dependencies.iml" filepath="$PROJECT_DIR$/springsecurity-dependencies/springsecurity-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-experience/springsecurity-experience.iml" filepath="$PROJECT_DIR$/springsecurity-experience/springsecurity-experience.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity-server/springsecurity-server.iml" filepath="$PROJECT_DIR$/springsecurity-server/springsecurity-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity-source/springsecurity-source.iml" filepath="$PROJECT_DIR$/springsecurity-source/springsecurity-source.iml" />
     </modules>
   </component>
 </project>

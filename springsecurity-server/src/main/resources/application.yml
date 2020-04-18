@@ -1,0 +1,19 @@
+server:
+  port: 9001
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///yan?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: root
+    password: 123
+mybatis:
+  type-aliases-package: com.yan.entity
+  configuration:
+    map-underscore-to-camel-case: true
+logging:
+  level:
+    com.yan: debug
+rsa:
+  key:
+    pubKeyFile: E:\study\SpringSecurity\auth_key\id_key_rsa.pub
+    priKeyFile: E:\study\SpringSecurity\auth_key\id_key_rsa
