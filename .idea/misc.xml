@@ -17,6 +17,10 @@
         <option value="$PROJECT_DIR$/springsecurity-experience/pom.xml" />
         <option value="$PROJECT_DIR$/springsercurity-dependencies/pom.xml" />
         <option value="$PROJECT_DIR$/springsecurity-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity-oauth2-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity-oauth2-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity-oauth2-source/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security_oauth/pom.xml" />
       </list>
     </option>
   </component>
@@ -158,5 +162,5 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

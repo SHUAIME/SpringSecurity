@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringSecurity.iml" filepath="$PROJECT_DIR$/.idea/SpringSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth/heima_oauth_server/heima_oauth_server.iml" filepath="$PROJECT_DIR$/springboot_security_oauth/heima_oauth_server/heima_oauth_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth/heima_oauth_source/heima_oauth_source.iml" filepath="$PROJECT_DIR$/springboot_security_oauth/heima_oauth_source/heima_oauth_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth/springboot_security_oauth.iml" filepath="$PROJECT_DIR$/springboot_security_oauth/springboot_security_oauth.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-common/springsecurity-common.iml" filepath="$PROJECT_DIR$/springsecurity-common/springsecurity-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-dependencies/springsecurity-dependencies.iml" filepath="$PROJECT_DIR$/springsecurity-dependencies/springsecurity-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsecurity-experience/springsecurity-experience.iml" filepath="$PROJECT_DIR$/springsecurity-experience/springsecurity-experience.iml" />

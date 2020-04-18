@@ -16,4 +16,4 @@ mybatis:
     map-underscore-to-camel-case: true
 logging:
   level:
-    com.itheima: debug
+    com.yan: debug

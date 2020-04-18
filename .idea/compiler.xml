@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="heima_oauth_server" />
+        <module name="heima_oauth_source" />
         <module name="springsecurity-common" />
         <module name="springsecurity-experience" />
         <module name="springsecurity-server" />
@@ -13,18 +15,29 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="heima_oauth_server" target="1.8" />
+      <module name="heima_oauth_source" target="1.8" />
+      <module name="springboot_security_oauth" target="1.8" />
       <module name="springsecurity-common" target="1.8" />
       <module name="springsecurity-dependencies" target="1.8" />
       <module name="springsecurity-experience" target="1.8" />
+      <module name="springsecurity-oauth2-dependencies" target="1.8" />
+      <module name="springsecurity-oauth2-server" target="1.8" />
+      <module name="springsecurity-oauth2-source" target="1.8" />
       <module name="springsecurity-server" target="1.8" />
       <module name="springsecurity-source" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="heima_oauth_server" options="-parameters" />
+      <module name="heima_oauth_source" options="-parameters" />
       <module name="springsecurity-common" options="-parameters" />
       <module name="springsecurity-dependencies" options="-parameters" />
       <module name="springsecurity-experience" options="-parameters" />
+      <module name="springsecurity-oauth2-dependencies" options="" />
+      <module name="springsecurity-oauth2-server" options="-parameters" />
+      <module name="springsecurity-oauth2-source" options="-parameters" />
       <module name="springsecurity-server" options="-parameters" />
       <module name="springsecurity-source" options="-parameters" />
     </option>
